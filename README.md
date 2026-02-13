@@ -74,7 +74,9 @@ Click **Process** to run the operation on all selected files. Each operation tra
 
 ## Installation
 
-Download the latest release from the [Releases](https://github.com/madebysan/media-tools-suite/releases) page, or build from source.
+Download the latest DMG from the [Releases](https://github.com/madebysan/media-tools-suite/releases) page, open it, and drag **Media Tools Suite** to your Applications folder.
+
+The app is signed and notarized with Apple Developer ID — no Gatekeeper warnings, installs and opens like any trusted Mac app.
 
 ## Building from Source
 
