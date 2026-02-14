@@ -8,13 +8,15 @@ No timelines, no complex UI — just quick conversions and edits powered by ffmp
 
 ## Features
 
-**28 operations across 6 categories:**
+**31 operations across 6 categories:**
 
 ### Audio
 - Remove audio from video
 - Extract audio to separate file
 - Replace audio track
 - Add audio layer (mix/overlay)
+- Normalize volume
+- Convert audio format (MP3, WAV, AAC, etc.)
 - Adjust volume (boost or reduce)
 - Remove silence
 - Enhance audio (denoise, EQ, normalize)
@@ -74,7 +76,7 @@ Click **Process** to run the operation on all selected files. Each operation tra
 
 ## Installation
 
-Download the latest DMG from the [Releases](https://github.com/madebysan/media-tools-suite/releases) page, open it, and drag **Media Tools Suite** to your Applications folder.
+Download the latest DMG from the [Releases](https://github.com/madebysan/mac-media-tools-suite-v1.1/releases) page, open it, and drag **Media Tools Suite** to your Applications folder.
 
 The app is signed and notarized with Apple Developer ID — no Gatekeeper warnings, installs and opens like any trusted Mac app.
 
