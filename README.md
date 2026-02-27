@@ -194,6 +194,10 @@ Contributions are welcome! Here's how:
 
 Please keep changes focused — one feature or fix per PR.
 
+## Feedback
+
+Found a bug or have a feature idea? [Open an issue](https://github.com/madebysan/media-tools-suite/issues).
+
 ## License
 
 [MIT](LICENSE)
